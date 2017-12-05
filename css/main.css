@@ -1,1 +1,28 @@
-git
+p {
+	font-family: 'Old Standard TT', serif;
+}
+body {
+	background-color: #3E92CC;
+}
+h1 {
+	display: block;
+	background-color: #FFAA00;
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+div.top {
+	background-color: #FFAA00;
+	text-align: center;
+}
+div.bottom {
+	background-color: #FFAA00;
+	text-align: center;
+}
+div.left {
+	text-align: center;
+}
+div.mid {
+	text-align: center;
+}
